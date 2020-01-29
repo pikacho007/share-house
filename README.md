@@ -105,5 +105,5 @@ Gitの練習用にシェアハウス（リポジトリ）を作りました！<b
 * Web intern
 * rubygems
 * Mac book air
-* Switch
+* Swatch
 - - - - - - - - - - - - - - - - - - -
