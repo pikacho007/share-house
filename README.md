@@ -99,13 +99,11 @@ Gitの練習用にシェアハウス（リポジトリ）を作りました！<b
 
 - - - - - - - - - - - - - - - - - - -
 ◆Pikachoのお部屋
-* Sourcetree
+* Git
+* Sorcetree
 * 🐰
-* github
-* git
+* Web intern
 * rubygems
-* web intern
-* macbook air
+* Mac book air
 * Switch
-
 - - - - - - - - - - - - - - - - - - -
